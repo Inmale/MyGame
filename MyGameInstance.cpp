@@ -8,5 +8,6 @@ void UMyGameInstance::Init()
 {
 	Super::Init();
 
+
 	USaveManager::Init();
 }
